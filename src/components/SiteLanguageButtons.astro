@@ -33,7 +33,7 @@ function buildLangPath(lang) {
 }
 
 function translationExists(lang) {
-    if (!isMdRoute) return true; // ⬅️ KEY FIX
+    if (!isMdRoute) return true;
 
     const target = buildLangPath(lang);
     return routeSet.has(target);
