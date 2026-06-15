@@ -178,3 +178,6 @@ The game is masterfully written. You will become attached to its characters, esp
 I hope that is enough to convince you to play it if you haven't already. For those who don't play games or simply don't have the ability to experience it themselves, don't worry. I will talk about it in detail in a future article. It deserves one entirely to itself.
 
 So there you go: Metroidbrainias. A genre that most people have never even heard of, yet have probably brushed up against at some point. I love them. And I think more people should.
+
+###### Footnote:
+Other great Metroidbrainias include Animal Well, Return of the Obra Dinn and Tunic

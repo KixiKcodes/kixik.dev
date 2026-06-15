@@ -173,8 +173,11 @@ Esto es todo lo que diré: eres un alienígena que vive en un sistema solar extr
 	<img src="/images/post_images/13.webp" alt="outerwilds2" style="width: calc(50% - 0.5rem); height: auto;" />
 </div>
 
-El juego está escrito de fantasticamente. Acabarás encariñándote con sus personajes, especialmente con aquellos cuyas vidas, esperanzas, miedos y motivaciones quedaron preservados en los registros que dejaron atrás. Es un juego intensamente emocional y existencial que explora ideas de finalidad, la aceptación y aquello que dejamos atrás. Y sí, lloré como una magdalena al final. Si lo sabes, lo sabes.
+El juego está escrito fantasticamente. Acabarás encariñándote con sus personajes, especialmente con aquellos cuyas vidas, esperanzas, miedos y motivaciones quedaron preservados en los registros que dejaron atrás. Es un juego intensamente emocional y existencial que explora ideas de finalidad, la aceptación y aquello que dejamos atrás. Y sí, lloré como una magdalena al final. Si lo sabes, lo sabes.
 
 Espero que esto sea suficiente para convencerte de jugarlo si aún no lo has hecho. Para quienes no juegan o no pueden experimentarlo, no te preocupes: hablaré de ello en detalle en un artículo futuro. Se lo merece por completo.
 
 Y eso es todo: *Metroidbrainias*. Un género del que la mayoría nunca ha oído hablar, pero con el que probablemente ha tenido contacto en algún momento. Me encantan. Y creo que a más gente también le encantarían.
+
+###### Footnote:
+Otros Metroidbrainias geniales son Animal Well, Return of the Obra Dinn y Tunic
