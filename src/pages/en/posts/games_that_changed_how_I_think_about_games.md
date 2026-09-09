@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: 'Games that changed how I think about games'
-pubDate: 15.06.2026
+pubDate: 2026-06-15
 description: 'Ever heard of "Metroidbrainias"? Wanna read my 4000+ word passion rant about them?'
 ---
 <!-- ###### Note: This is a VERY long article that talk about a topic I am extremely passionate over. It also completely spoils three fantastic games. -->

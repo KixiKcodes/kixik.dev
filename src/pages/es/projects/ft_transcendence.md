@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: 'ft_transcendence'
-pubDate: '06.11.2025'
+pubDate: 2025-11-06
 description: 'Proyecto final del Core Curriculum de 42. Prototipo full-stack de una aplicación web centrada en el clásico Pong.'
 source: 'https://github.com/KixiKcodes/ft_transcendence'
 tags: ["TypeScript", "JavaScript", "HTML", "CSS", "Docker"]

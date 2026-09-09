@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: 'KI: Das Gute, das Schlechte und die Mittelmäßigkeit'
-pubDate: 01.06.2026
+pubDate: 2026-06-01
 description: 'Ein paar meiner Gedanken über KI und ihre Auswirkungen auf die Gesellschaft'
 ---
 

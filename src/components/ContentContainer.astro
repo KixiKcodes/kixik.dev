@@ -31,14 +31,11 @@ const resizeDuration = Math.max(3500, Math.round(transitionSpeed * 2.5));
         width: 100%;
         height: auto;
         position: relative;
-        background: linear-gradient(
+        background-color: rgb(50, 58, 69);
+        background-image: linear-gradient(
             135deg,
-            rgb(71 85 105) 30%,
-            color-mix(
-                in oklch,
-                var(--color-secondary) 90%,
-                black
-            ) 100%
+            rgb(69, 80, 95) 30%,
+            oklch(46.534% 0.17457 14.288 / 0.1) 100%
         );
         transition: height var(--content-resize-duration, 3500ms) ease;
     }

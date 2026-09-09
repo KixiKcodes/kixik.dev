@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: 'IA: Lo Bueno, lo Malo y lo Mediocre'
-pubDate: 01.06.2026
+pubDate: 2026-06-01
 description: 'Algunas de las cosas que pienso sobre la IA y sus impactos en la sociedad.'
 ---
 

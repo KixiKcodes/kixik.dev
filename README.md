@@ -2,4 +2,4 @@
 
 Made with Astro and Tailwind-CSS, they are pretty cool.
 
-_Some translations are made with AI_
+_Some language translations are made with the help of AI._

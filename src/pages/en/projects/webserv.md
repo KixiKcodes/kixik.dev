@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: 'webserv'
-pubDate: '12.07.2025'
+pubDate: 2025-07-12
 description: 'A basic web server in C++ based off NGINX plus a test website to host.'
 source: 'https://github.com/KixiKcodes/webserv'
 tags: ["C++", "HTML", "CSS"]

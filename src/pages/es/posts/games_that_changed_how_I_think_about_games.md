@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: 'Juegos que cambiaron mi prespectiva sobre los juegos'
-pubDate: 15.06.2026
+pubDate: 2026-06-15
 description: '¿Te suenan los "Metroidbrainias"? ¿Quieres leer mas de 4000 palabras apasionadas sobre ellos?'
 ---
 Me gustan los videojuegos. *(Impresionante, lo sé.)*

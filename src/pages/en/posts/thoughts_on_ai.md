@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: 'AI: The Good, the Bad and the Mediocre'
-pubDate: 01.06.2026
+pubDate: 2026-06-01
 description: 'A few of the things I think about AI and its role in society.'
 ---
 
